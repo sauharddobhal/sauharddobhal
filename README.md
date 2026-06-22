@@ -1,7 +1,7 @@
 ### 👋 Hey there, I'm Sauhard
 
-🏆 AWS Golden Jacket holder, one of fewer than 300 people on Earth with all 12 AWS certs.
-🏍️ When I'm not in a terminal, I'm probably on my KTM 390 Adventure somewhere in the Himalayas.
+🏆 AWS Golden Jacket holder with all 12 AWS certs.
+🏍️ When I'm not in a terminal, I'm probably somewhere in the Himalayas.
 
 ---
 
