@@ -6,14 +6,6 @@
 
 ---
 
-### 🧠 About Me
-
-- ☁️ 7 years building AWS infrastructure for regulated industries: healthcare and education
-- 🏆 All 12 AWS certifications (AWS Golden Jacket), plus AZ-500 and SC-100
-- 🤖 Currently deep in agentic AI: LangGraph multi-agent systems, RAG pipelines, Amazon Bedrock
-- 🛠️ Recent build: [agentic-infra-ops](https://github.com/sauharddobhal/agentic-infra-ops), a multi-agent incident triage system (see Selected Work below)
-- 💰 FinOps background: real-world AWS cost optimization at scale
-- 📫 Open to Senior Solutions Architect / Solutions Engineer roles. Reach out on [LinkedIn](https://www.linkedin.com/in/sauharddobhal/)
 
 ---
 
